@@ -21,7 +21,7 @@
 	* ***線上學習***：30 天精通 Git 版本控管 2016年12月27日新增 ( 2017年1月24日完成)  
 		* [筆記列表](http://ppt.cc/OrDcs)
 	* ***線上學習***：Git 版本管理 周莫煩[youtube線上教程播放清單]() 2016年12月31日新增  
-		* [筆記列表]()
+		* [筆記列表](http://ppt.cc/zy4kv)
 	
 * ***線上學習*** Scikit-learn 周莫煩 [youtube線上教學播放清單](https://www.youtube.com/playlist?list=PLXO45tsB95cI7ZleLM5i3XXhhe9YmVrRO)  2016年12月30日新增 ( 2017年1月3日完成)  
     * [筆記列表](http://ppt.cc/5a5dV)
@@ -29,6 +29,8 @@
 	* [筆記列表](http://ppt.cc/4erMF)
 
 * ***練習*** [kaggle](https://www.kaggle.com/competitions)專題練習 2016年12月27日新增
-	* [練習筆記]() 
+	* [練習筆記](http://ppt.cc/YFBrW) 
 * ***練習*** [GitBook機器學習-使用Python](https://machine-learning-python.kspax.io/) 2017年1月11日新增
+	* [練習筆記](http://ppt.cc/c9aRW)
+* ***線上學習*** tkinter 周莫煩 [youtube線上教學播放清單](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)  2017年1月31日新增  
 	* [練習筆記]()
