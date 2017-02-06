@@ -32,5 +32,5 @@
 	* [練習筆記](http://ppt.cc/YFBrW) 
 * ***練習*** [GitBook機器學習-使用Python](https://machine-learning-python.kspax.io/) 2017年1月11日新增
 	* [練習筆記](http://ppt.cc/c9aRW)
-* ***線上學習*** tkinter 周莫煩 [youtube線上教學播放清單](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)  2017年1月31日新增  
-	* [練習筆記]()
+* ***線上學習*** tkinter 周莫煩 [youtube線上教學播放清單](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)  2017年1月31日新增 (2017年2月6日完成)
+	* [練習筆記](http://ppt.cc/lNt4b)
