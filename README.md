@@ -8,29 +8,25 @@
 獻醜了（一鞠躬）  
 
 ---
-* ***課程***：台大資工Python程式設計 【268期】[課程資訊連接](https://www.csie.ntu.edu.tw/train/?page=course_info.html&courseid=1708)（2016年08月18日完成） 
-	* [筆記列表]()
-* ***線上學習*** numpy＆pandas ＆ matplotlib 周莫煩 [youtube線上教程播放清單](https://www.youtube.com/user/MorvanZhou/playlists?sort=dd&view=50&shelf_id=18)（2016年12月30日 完成）  
-    * [筆記列表](http://ppt.cc/CGE6F)  
-  
+* ***課程***：台大資工Python程式設計 【268期】[課程資訊連接](http://ppt.cc/L5aM0)<sup>（2016年08月18日完成）</sup> 
+	* [筆記列表]()  
+* ***線上學習*** numpy＆pandas ＆ matplotlib 周莫煩 [youtube線上教程播放清單](http://ppt.cc/xmwm1)<sup>（2016年12月30日 完成）</sup>  
+    * [筆記列表](http://ppt.cc/CGE6F)    
 * ***書籍***:精通 Python｜運用簡單的套件進行現代運算 (Introducing Python: Modern Computing in Simple Packages)  
 	* [筆記列表]()
-
-* ***課程***：台大資工Python 資料科學實戰 276期 [課程資訊連接](https://www.csie.ntu.edu.tw/train/?page=course_info.html&courseid=1698)（2016年12月23日 完成） 
-	* [筆記列表](http://ppt.cc/rQseb)
-	* ***線上學習***：30 天精通 Git 版本控管 2016年12月27日新增 ( 2017年1月24日完成)  
-		* [筆記列表](http://ppt.cc/OrDcs)
-	* ***線上學習***：Git 版本管理 周莫煩[youtube線上教程播放清單]() 2016年12月31日新增  
-		* [筆記列表](http://ppt.cc/zy4kv)
-	
-* ***線上學習*** Scikit-learn 周莫煩 [youtube線上教學播放清單](https://www.youtube.com/playlist?list=PLXO45tsB95cI7ZleLM5i3XXhhe9YmVrRO)  2016年12月30日新增 ( 2017年1月3日完成)  
+* ***課程***：台大資工Python 資料科學實戰 276期 [課程資訊連接](http://ppt.cc/wYQ7d)<sup>（2016年12月23日 完成）</sup>
+	* [筆記列表](http://ppt.cc/rQseb)  
+* ***線上學習*** ：30 天精通 Git 版本控管 <sup>2016年12月27日新增( 2017年1月24日完成)</sup>  
+	* [筆記列表](http://ppt.cc/OrDcs)  
+* ***線上學習*** ：Git 版本管理 周莫煩[youtube線上教程播放清單]() <sup>2016年12月31日新增</sup>  
+	* [筆記列表](http://ppt.cc/zy4kv)
+* ***線上學習*** Scikit-learn 周莫煩 [youtube線上教學播放清單](http://ppt.cc/BkQfc)  <sup>2016年12月30日新增 ( 2017年1月3日完成)</sup> 
     * [筆記列表](http://ppt.cc/5a5dV)
-* ***線上學習*** tensorflow神經網路 周莫煩 [youtube線上教學播放清單]() 2017年1月7日新增  
+* ***線上學習*** tensorflow神經網路 周莫煩 [youtube線上教學播放清單](http://ppt.cc/ATgOB) <sup>2017年1月7日新增</sup>  
 	* [筆記列表](http://ppt.cc/4erMF)
-
-* ***練習*** [kaggle](https://www.kaggle.com/competitions)專題練習 2016年12月27日新增
+* ***練習*** [kaggle](https://www.kaggle.com/competitions)專題練習 <sup>2016年12月27日新增</sup>
 	* [練習筆記](http://ppt.cc/YFBrW) 
-* ***練習*** [GitBook機器學習-使用Python](https://machine-learning-python.kspax.io/) 2017年1月11日新增
+* ***練習*** [GitBook機器學習-使用Python](https://machine-learning-python.kspax.io/) <sup>2017年1月11日新增</sup>
 	* [練習筆記](http://ppt.cc/c9aRW)
-* ***線上學習*** tkinter 周莫煩 [youtube線上教學播放清單](https://www.youtube.com/playlist?list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH)  2017年1月31日新增 (2017年2月6日完成)
+* ***線上學習*** tkinter 周莫煩 [youtube線上教學播放清單](http://ppt.cc/5blVO)  <sup>2017年1月31日新增 (2017年2月6日完成)</sup>
 	* [練習筆記](http://ppt.cc/lNt4b)
