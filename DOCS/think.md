@@ -1,3 +1,12 @@
+## 高人指點
+從RNN開始可以發現自己基礎不夠。  
+經過朋友指點，還是回到理解整個結構的基礎原理～就是之前那篇“機器學習基石”啦  
+高達64段的視頻教學！之前看到二十多段就看不了了...  
+這次，邊翻wiki邊念也要把它看完！  
+基礎果然還是最著要的。  
+不過，朋友有提到，我是否真的有這個時間金錢能力去念一個資工碩士？（沈思）
+
+
 ## 從中找樂趣
 滿滿編碼沒圖片，可是按下`shift`+`enter`時完全沒報錯跑出結果的感覺真是爽啊。  
 （雖然發生的機率低得可憐ＱＱ）  
@@ -10,8 +19,8 @@
 ## 一個心情洗三溫暖的過程
 學程式語言大概也唸了半年了，看了一下自己練習清單  `pandas``matplotlib``numpy``git``scikit-learn``tensorflow`  
 
-清單越來越長，開始有看前面忘後面的情形ＱＱ，（果然3字頭年齡學習能力大幅下降啊），今天看一整天CNN教學視頻(不是這個[CNN](http://edition.cnn.com/))整個腦袋只有浮現....
-![Foo](https://dl.dropboxusercontent.com/u/23064459/python/think/nick2.jpg) 
+清單越來越長，開始有看前面忘後面的情形ＱＱ，（果然3字頭年齡學習能力大幅下降啊），今天看一整天CNN教學視頻(不是這個[CNN](http://edition.cnn.com/))整個腦袋只有浮現....  
+![Foo](https://dl.dropboxusercontent.com/u/23064459/python/think/nick2.jpg)   
 >這張圖真好用 
 
 ## 迷惘
@@ -41,3 +50,5 @@ RNN無法理解，三維矩陣觀念沒建立起來。
 資料可視化：matplotlib (seaborn, bokeh)  
 機器學習：scikit-learn  
 深度學習：tensorflow (keras)  
+
+
