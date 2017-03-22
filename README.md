@@ -1,6 +1,6 @@
 # Python的學習歷程
 ---
-![foo](https://dl.dropboxusercontent.com/u/23064459/python/python-logo.png)  
+![foo](https://www.dropbox.com/s/n4kxpc18uhac51g/python-logo.png?dl=0)  
 單純紀錄在想轉職的過程中，學習Python或相關課程的筆記和整理。  
 過去沒有寫程式的經驗，所以大多靠自己整理跟找資料理解或詢問上課老師。  
 話說也因為要求自己po上網，才會強迫讓自己整理得更清楚，也學習GitHub的操作和MarkDown語法。  
